@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8r+SHnp8o0p/az8FbHH98ktlQPlVYxxfJpIx/P6MxWN0hHdiJ+r6XPHipxHTN86PNZWYh+m54YSRkrRh/YV61A==",
+  "success": true,
+  "projectFilePath": "E:\\Dropbox\\TechnoBrave\\2020\\11.KakeiboPJ\\PJ\\MoneyLife\\Source\\TestBranch\\TestBranch\\TestBranch.iOS\\TestBranch.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
