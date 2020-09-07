@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PJ",
+    "\\PJ\\MoneyLife",
+    "\\PJ\\MoneyLife\\Source",
+    "\\PJ\\MoneyLife\\Source\\TestBranch",
+    "\\PJ\\MoneyLife\\Source\\TestBranch\\TestBranch"
   ],
+  "SelectedNode": "\\PJ\\MoneyLife\\Source\\TestBranch\\TestBranch.sln",
   "PreviewInSolutionExplorer": false
 }
